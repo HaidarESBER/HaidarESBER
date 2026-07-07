@@ -45,16 +45,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**chich** (Nuage)](https://github.com/HaidarESBER/chich) | French e-commerce platform for hookahs, with an automated product-sourcing pipeline (scrape → AI-translate → image-process), admin back office, and AI support chatbot | Next.js · Supabase · Stripe |
-| [**majalpost** (Majal Post)](https://github.com/HaidarESBER/majalpost) | Arabic (RTL) Lebanese news &amp; media platform with an admin dashboard and contributor workflow | Next.js · Express · MongoDB |
-| [**sports**](https://github.com/HaidarESBER/sports) | Fitness / sport session planning &amp; tracking web app | TypeScript · React |
-| [**vitalsync**](https://github.com/HaidarESBER/vitalsync) | Health &amp; vitals tracking application | Full-stack · Docker |
-
-More on my [**portfolio →**](https://haidaresber.github.io)
 
 ---
 
