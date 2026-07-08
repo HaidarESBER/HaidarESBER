@@ -52,3 +52,8 @@
 
 - 🌐 Portfolio: [haidaresber.github.io](https://haidaresber.github.io)
 - 💻 GitHub: [@HaidarESBER](https://github.com/HaidarESBER)
+
+---
+
+<p align="center"><a href="https://github.com/HaidarESBER?tab=repositories">Browse all my repositories -></a></p>
+
