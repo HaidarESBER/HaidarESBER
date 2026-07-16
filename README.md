@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://haidaresber.github.io"><img src="https://img.shields.io/badge/Portfolio-haidaresber.github.io-2ea44f?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/haidaresber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -45,15 +46,22 @@
 
 ---
 
+### 🚀 Live Projects
+
+- 🎨 **[haidarsvg](https://haidaresber.github.io/haidarsvg/)** — browser-based raster → vector (SVG) converter with AI background removal & upscaling · Rust → WebAssembly, 100% client-side
+- 🔒 **[privasvg](https://haidaresber.github.io/privasvg/)** — private, in-browser image-to-vector conversion with AI enhancements & bulk processing
+- 📰 **[Majal Post](https://majalpost.vercel.app)** — Arabic-first, RTL news & media platform for Lebanese affairs · Next.js + Express/MongoDB
+- ✨ **[arguile](https://arguile-mocha.vercel.app)** — web app (Next.js)
+- 🌐 **[Portfolio](https://haidaresber.github.io)** — my personal site & full project index
 
 ---
 
 ### 📫 Reach me
 
 - 🌐 Portfolio: [haidaresber.github.io](https://haidaresber.github.io)
+- 💼 LinkedIn: [in/haidaresber](https://www.linkedin.com/in/haidaresber)
 - 💻 GitHub: [@HaidarESBER](https://github.com/HaidarESBER)
 
 ---
 
 <p align="center"><a href="https://github.com/HaidarESBER?tab=repositories">Browse all my repositories -></a></p>
-
