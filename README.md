@@ -48,8 +48,7 @@
 
 ### 🚀 Live Projects
 
-- 🎨 **[haidarsvg](https://haidaresber.github.io/haidarsvg/)** — browser-based raster → vector (SVG) converter with AI background removal & upscaling · Rust → WebAssembly, 100% client-side
-- 🔒 **[privasvg](https://haidaresber.github.io/privasvg/)** — private, in-browser image-to-vector conversion with AI enhancements & bulk processing
+- 🎨 **[privasvg](https://haidaresber.github.io/privasvg/)** — private, in-browser raster → vector (SVG) converter with AI background removal, upscaling & bulk processing · Rust → WebAssembly, 100% client-side
 - 📰 **[Majal Post](https://majalpost.vercel.app)** — Arabic-first, RTL news & media platform for Lebanese affairs · Next.js + Express/MongoDB
 - ✨ **[arguile](https://arguile-mocha.vercel.app)** — web app (Next.js)
 - 🌐 **[Portfolio](https://haidaresber.github.io)** — my personal site & full project index
