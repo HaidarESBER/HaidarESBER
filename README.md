@@ -29,7 +29,7 @@
 <h2 align="center">MAIN MENU</h2>
 
 <table align="center">
-  <tr><td>▶ <a href="#quest-log"><b>QUEST LOG</b></a></td><td>projects I've built (click to expand)</td></tr>
+  <tr><td>▶ <a href="#quest-log"><b>QUEST LOG</b></a></td><td>8 projects I've built (click to expand)</td></tr>
   <tr><td>▶ <a href="#research-lab"><b>RESEARCH LAB</b></a></td><td>published papers</td></tr>
   <tr><td>▶ <a href="#career-log"><b>CAREER LOG</b></a></td><td>experience and education</td></tr>
   <tr><td>▶ <a href="#guild-hall"><b>GUILD HALL</b></a></td><td>community and non-profit work</td></tr>
@@ -150,6 +150,23 @@ A news and media platform for Lebanese affairs, built RTL-first.
 A Spotify "now playing" display with synced lyrics, installable as a PWA on iPhone and Android. Vanilla JavaScript, no dependencies, with a demo mode that plays sample songs.
 
 🔗 [Repository](https://github.com/HaidarESBER/nowplaying) · 🌐 [Live demo](https://haidaresber.github.io/nowplaying/)
+
+</details>
+
+<details>
+<summary>☁️ <b>QUEST 8: cloudprojet</b> &nbsp;·&nbsp; <i>a whole Azure environment from one <code>terraform apply</code></i></summary>
+
+<br>
+
+A Flask file API deployed on Azure entirely as code, then torn down cleanly. Terraform builds **16 resources** and the VM configures itself on first boot.
+
+- **Network:** virtual network with separate VM and database subnets, a static public IP and a network security group
+- **Compute:** Ubuntu 22.04 VM running Nginx as a reverse proxy in front of Gunicorn and Flask, set up through cloud-init
+- **Data:** a PostgreSQL Flexible Server on a private subnet with private DNS for the metadata, and a private Blob Storage container for the files
+- **API:** REST endpoints to upload, list, read, update and delete files, plus a health check
+- **Practice:** secrets stay out of Git (variables and an `.example` file), and the report documents every step and the deployment issues I hit
+
+🔗 [Repository](https://github.com/HaidarESBER/cloudprojet) <sub>(documentation in French)</sub>
 
 </details>
 
@@ -281,7 +298,7 @@ Open access on Zenodo and HAL. Feedback is welcome, especially from researchers 
 
 Most of my work isn't public. The private repos contain:
 
-- **Cloud infrastructure** on Azure with Terraform
+- **More infrastructure work**, beyond the Azure and Terraform project above
 - **Docker CI/CD pipelines** with PostgreSQL
 - **Python** tooling: job-search automation and federated-learning research
 - **A Symfony application-security lab**, plus a deliberately vulnerable app for training
